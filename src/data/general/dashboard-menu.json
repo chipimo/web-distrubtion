@@ -1,0 +1,32 @@
+{
+    "id": "main-menu-1",
+    "section": "dashboard-menu",
+    "menu": [
+        {
+            "id": 1, 
+            "text": "Music",
+            "path": "music"
+        },
+        {
+            "id": 2,
+            "text": "Videos",
+            "path": "videos"
+        },
+        {
+            "id": 3,
+            "text": "Royalties ",
+            "path": "royalties"
+        },
+        {
+            "id": 4,
+            "text": "Analytics",
+            "path": "analytics"
+        },
+        {
+            "id": 5,
+            "text": "Promotion",
+            "path": "promo"
+        }
+      
+    ]
+}

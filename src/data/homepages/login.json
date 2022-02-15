@@ -1,0 +1,62 @@
+{
+    "title": "Login",
+    "content": [
+        {
+            "id": "login-home-hero",
+            "section": "header-section",
+            "headings": [
+                {
+                    "content": "Sign in to KMP Distribution"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-03.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/logo/logo.png",
+                    "alt": "Logo"
+                }
+            ],
+            "video_link": "https://www.youtube.com/watch?v=ZOoVOfieAF8"
+        },
+        {
+            "id": "logo-view",
+            "section": "logo-section",
+            "images": [
+                {
+                    "src": "../images/logo/logo.png",
+                    "alt": "Logo"
+                }
+            ]
+        }
+    ]
+}

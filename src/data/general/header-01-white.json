@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1-white",
+    "section": "header-1-white",
+    "button": {
+        "id": 1,
+        "content": "Sign in",
+        "path": "#!"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo-dark.png"
+        },
+        {
+            "src": "../images/logo/logo-dark.png"
+        }
+    ],
+    "slogan": "Kalandanya Distribution."
+}

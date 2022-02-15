@@ -1,0 +1,77 @@
+{
+    "title": "music",
+    "content": [
+        {
+            "id": "music-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "My Music"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Ready to get your music out there?"
+                },
+                {
+                    "content": "We've got you covered, just select a type of release to start with:"
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+                
+            ],
+            "release_types": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+                
+            ],
+            "images": [
+                {
+                    "src": "../images/logo/logo.png",
+                    "alt": "Logo"
+                }
+            ],
+            "video_link": "https://www.youtube.com/watch?v=ZOoVOfieAF8"
+        },
+        {
+            "id": "logo-view",
+            "section": "logo-section",
+            "images": [
+                {
+                    "src": "../images/logo/logo.png",
+                    "alt": "Logo"
+                }
+            ]
+        }
+    ]
+}

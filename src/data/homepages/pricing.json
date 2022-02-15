@@ -1,0 +1,165 @@
+{
+    "title": "pricing",
+    "content": [
+        {
+            "id": "pricing-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Release <span>unlimited</span> music."
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Upgrade to KMP Music Publishing and earn even more money from your music. We’ll track, collect and pay all the additional publishing royalties you’re owed. Plus we’ll pitch your tracks for sync placements across TV, film, ads, games and more."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/bg/publishing.png",
+                    "alt": "background Images"
+                }
+            ]
+        },
+
+        {
+            "id": "photographer-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "Pick a plan to suit you",
+                "subtitle": "Pricing"
+            },
+            "texts": [
+                {
+                    "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+                },
+                {
+                    "content": "Get the bundle and get lifetime support and one year updates."
+                }
+            ],
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "title": "Artist",
+                    "subtitle": "1 Artist",
+                    "is_featured": false,
+                    "price": "K260/year",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Release unlimited music everywhere.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Keep 100% of your royalties",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Access major label promo tools",
+                            "available": false
+                        },
+                        {
+                            "id": 4,
+                            "title": "Get insights & analytic reports",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Release music for multiple artists",
+                            "available": false
+                        },
+                        {
+                            "id": 6,
+                            "title": "Protect your music copyrights",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-static",
+                    "title": "Professional",
+                    "subtitle": "2 Artists",
+                    "is_featured": false,
+                    "price": "K342/year",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Release unlimited music everywhere.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Keep 100% of your royalties",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Access major label promo tools",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Get insights & analytic reports",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Release music for multiple artists",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "Protect your music copyrights",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-join",
+                    "title": "Label",
+                    "subtitle": "5 Artists",
+                    "is_featured": false,
+                    "price": "K810/year",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Release unlimited music everywhere.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Keep 100% of your royalties",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Access major label promo tools",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Get insights & analytic reports",
+                            "available": true
+                        },    
+                        {
+                            "id": 5,
+                            "title": "Release music for multiple artists",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "Protect your music copyrights",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                }
+            ]
+        }
+     
+    ]
+}

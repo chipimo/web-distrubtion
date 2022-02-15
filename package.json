@@ -1,8 +1,8 @@
 {
-  "name": "inbio-gatsby",
+  "name": "kmp",
   "version": "1.0.0",
   "private": true,
-  "description": "inbio-gatsby",
+  "description": "kmp",
   "author": "Rainbow IT",
   "keywords": [
     "gatsby"
@@ -18,6 +18,10 @@
     "format": "prettier --write \"**/*.{js,jsx,,json,md}\"",
     "lint": "eslint --ignore-path .gitignore . --ext js --ext jsx",
     "lint:fix": "npm run format & npm run lint --fix"
+  },
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.1.2"
   },
   "dependencies": {
     "aos": "^2.3.4",

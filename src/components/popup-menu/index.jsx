@@ -15,29 +15,21 @@ const PopupMenu = ({ isOpen, onClick, menus, socials, slogan, logo }) => {
                     <ul className="primary-menu nav nav-pills">
                         {menus.map(({ id, text, path }) => (
                             <li className="nav-item" key={id}>
-                                <Anchor
+                                <a
+                                    activeclass="active"
                                     className="nav-link smoth-animation"
-                                    path={`#${path}`}
-                                    onClick={onClick}
+                                    href={`${path}`}
+                                    to={path}
+                                    spy={true}
+                                    smooth={true}
+                                    offset={-50}
+                                    duration={500}
                                 >
                                     {text}
-                                </Anchor>
+                                </a>
                             </li>
                         ))}
                     </ul>
-                )}
-
-                {socials && (
-                    <div className="social-share-style-1 mt--40">
-                        <span className="title">find with me</span>
-                        <Social>
-                            {socials.map((social) => (
-                                <SocialLink key={social.id} path={social.path}>
-                                    <Icon name={social.icon} />
-                                </SocialLink>
-                            ))}
-                        </Social>
-                    </div>
                 )}
             </OffcanvasBody>
         </Offcanvas>

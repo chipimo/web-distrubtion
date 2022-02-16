@@ -9,7 +9,7 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "start": "node server.js",
     "build": "gatsby build",
     "serve": "gatsby serve",

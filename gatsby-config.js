@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        siteUrl: "https://www.yourdomain.tld",
+        siteUrl: "https://kmpworldwide.com",
         title: "Kalandanya Distribution.",
         description:
             "KMP Distribution is a service for musicians that puts your music into online stores & streaming services. ",
@@ -8,32 +8,32 @@ module.exports = {
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "Kalandanya",
-        twitterUsername: "@rainbowit",
+        twitterUsername: "@Kmp_Worldwide",
         getform_url:
-            "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
+            "https://getform.io",
         socials: [
             {
                 id: 1,
                 title: "facebook",
-                path: "https://facebook.com",
+                path: "https://web.facebook.com/Kmpworldwide",
                 icon: "Facebook",
             },
             {
                 id: 2,
-                title: "instagram",
-                path: "https://instagram.com",
-                icon: "Instagram",
+                title: "twitter",
+                path: "https://twitter.com/Kmp_Worldwide",
+                icon: "Twitter",
             },
             {
                 id: 3,
-                title: "linkedin",
-                path: "https://linkedin.com",
-                icon: "Linkedin",
+                title: "Youtube",
+                path: "https://www.youtube.com/channel/UCZIhgUIs0Jhcy9tdzKEnbSA",
+                icon: "Youtube",
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "+260973168440",
+            email: "kalandanyamusicpromotions@gmail.com",
         },
     },
     plugins: [

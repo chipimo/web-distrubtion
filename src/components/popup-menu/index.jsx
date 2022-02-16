@@ -31,6 +31,19 @@ const PopupMenu = ({ isOpen, onClick, menus, socials, slogan, logo }) => {
                         ))}
                     </ul>
                 )}
+
+                {socials && (
+                    <div className="social-share-style-1 mt--40">
+                        <span className="title">find with us</span>
+                        <Social>
+                            {socials.map((social) => (
+                                <SocialLink key={social.id} path={social.path}>
+                                    <Icon name={social.icon} />
+                                </SocialLink>
+                            ))}
+                        </Social>
+                    </div>
+                )}
             </OffcanvasBody>
         </Offcanvas>
     );

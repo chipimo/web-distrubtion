@@ -7,6 +7,7 @@ import MainMenu from "@components/main-menu";
 import PopupMenu from "@components/popup-menu";
 import BurgerButton from "@ui/burger-button";
 import Button from "@ui/button";
+import { Link } from "gatsby";
 import { useSticky, useOffcanvas } from "@hooks";
 import { ImageType, ButtonType, MenuType, SocialType } from "@utils/types";
 
